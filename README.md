@@ -22,3 +22,6 @@ Use either the Python Notebook or R Notebook to:
   5. Plot your finding (if it's "plottable")
   
 Do NOT use a different format of the given file in the URL (JSON only, no GeoJSON or others)
+
+# Data from NASA on meteorite landings
+url = "https://data.nasa.gov/resource/y77d-th95.json"
